@@ -1,3 +1,10 @@
+      Home (Parent 父)
+      /  \
+    Edit List （Child 子）
+          \ \ \
+        Item Item Item
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
